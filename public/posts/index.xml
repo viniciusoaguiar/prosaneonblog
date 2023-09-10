@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prosa Neon</title>
+    <title>Posts on Prosa Neon</title>
     
     
     
-    <link>https://viniciusoaguiar.github.io/prosaneonblog/</link>
-    <description>Recent content on Prosa Neon</description>
+    <link>https://viniciusoaguiar.github.io/prosaneonblog/posts/</link>
+    <description>Recent content in Posts on Prosa Neon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 10 Sep 2023 10:07:07 -0300</lastBuildDate>
     
-	<atom:link href="https://viniciusoaguiar.github.io/prosaneonblog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://viniciusoaguiar.github.io/prosaneonblog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
