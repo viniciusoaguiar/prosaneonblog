@@ -9,10 +9,77 @@
     <description>Recent content on Prosa Neon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Sep 2023 10:07:07 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2023 11:33:52 -0300</lastBuildDate>
     
 	<atom:link href="https://viniciusoaguiar.github.io/prosaneonblog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rota para Afiliado na Twitch</title>
+      <link>https://viniciusoaguiar.github.io/prosaneonblog/posts/rota-afiliado-twitch/</link>
+      <pubDate>Sun, 10 Sep 2023 11:33:52 -0300</pubDate>
+      
+      <guid>https://viniciusoaguiar.github.io/prosaneonblog/posts/rota-afiliado-twitch/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Monetizando um Hobbie#Eu gosto muito de jogar vídeo-games, isso é fato. Esse ano resolvi tirar do papel o máximo de projetos possível, o canal da Twitch é um deles e até agora as coisas tão fluindo (mais ou menos) bem. Eu sei que a realidade é que conseguir &amp;ldquo;criar&amp;rdquo; uma comunidade para consumir o meu conteúdo não é fácil. O legal é que aprendi muita coisa sobre o OBS Studio (software open-source para transmissões) e sobre a plataforma da Twich em si.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Meus projetos</title>
+      <link>https://viniciusoaguiar.github.io/prosaneonblog/showcase/</link>
+      <pubDate>Sun, 10 Sep 2023 10:44:21 -0300</pubDate>
+      
+      <guid>https://viniciusoaguiar.github.io/prosaneonblog/showcase/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Apenas um cearense tentando fazer os projetinhos vingarem na web!#Os principais são:
+Meu canal na Twitch: ttv/vinithehealer;
+Meu bandcamp onde lanço minhas composições autorais/experimentais: Vini, The Healer.
+Os secundários:
+Meu TikTok (serve como suporte para a Twitch): @viniciusoaguiar;
+Meu canal no YouTube pessoal e onde posto experimentos audivisuais: @viniciusoaguiar;
+Meu canal no YouTube para jogos (atualmente só serve de backup pra Twitch): @vinithehealer.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://viniciusoaguiar.github.io/prosaneonblog/about/</link>
+      <pubDate>Sun, 10 Sep 2023 10:44:21 -0300</pubDate>
+      
+      <guid>https://viniciusoaguiar.github.io/prosaneonblog/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          O &amp;ldquo;Prosa Neon&amp;rdquo; é um diário retrofuturista#Resolvi tirar todos os projetos do papel esse ano, esse blog é um deles!
+Unindo o útil ao agradável, resolvi criar esse blog bem pessoal e hospedar ele gratuitamente no Github. A ideia aqui é além de ter um lugar para ter os meus textos na internet (sem sofrer com anúncios tenebrosos), conseguir também tirar a ferrugem (que não é pouca) dos Web Design da vida.
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>O famoso &#34;Hello, World&#34;, pra não dar azar!</title>

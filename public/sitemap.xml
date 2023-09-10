@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://viniciusoaguiar.github.io/prosaneonblog/posts/</loc>
-    <lastmod>2023-09-10T10:07:07-03:00</lastmod>
-  </url><url>
     <loc>https://viniciusoaguiar.github.io/prosaneonblog/</loc>
+    <lastmod>2023-09-10T11:33:52-03:00</lastmod>
+  </url><url>
+    <loc>https://viniciusoaguiar.github.io/prosaneonblog/posts/rota-afiliado-twitch/</loc>
+    <lastmod>2023-09-10T11:33:52-03:00</lastmod>
+  </url><url>
+    <loc>https://viniciusoaguiar.github.io/prosaneonblog/showcase/</loc>
+    <lastmod>2023-09-10T10:44:21-03:00</lastmod>
+  </url><url>
+    <loc>https://viniciusoaguiar.github.io/prosaneonblog/about/</loc>
+    <lastmod>2023-09-10T10:44:21-03:00</lastmod>
+  </url><url>
+    <loc>https://viniciusoaguiar.github.io/prosaneonblog/posts/</loc>
     <lastmod>2023-09-10T10:07:07-03:00</lastmod>
   </url><url>
     <loc>https://viniciusoaguiar.github.io/prosaneonblog/posts/my-first-post/</loc>
