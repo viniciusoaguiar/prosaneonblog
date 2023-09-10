@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://viniciusoaguiar.github.io/prosaneonblog/'
 languageCode = 'pt-br'
 title = 'Prosa Neon Blog'
 theme = 'hello-friend'
@@ -9,7 +9,7 @@ paginate = 5
 [params]
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
+  contentTypeName = "content/posts"
 
   # OS theme is default when not provided, but you can force it to "light" or "dark"
   defaultTheme = "dark"
@@ -34,13 +34,13 @@ paginate = 5
     subtitle = "Um blog retrofuturista"
     keywords = ""
     copyright = ""
-    menuMore = "Show more"
+    menuMore = "Mostrar mais"
     writtenBy = "Escrito por Vinicius O. Aguiar"
     readMore = "Ler mais"
     readOtherPosts = "Leia outros posts"
     newerPosts = "Postagens recentes"
-    olderPosts = "Older posts"
-    minuteReadingTime = "min read"
+    olderPosts = "Postagens antigas"
+    minuteReadingTime = "min - tempo de leitura"
     dateFormatSingle = "2006-01-02"
     dateFormatList = "2006-01-02"
     # leave empty to disable, enter display text to enable
@@ -48,7 +48,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "Prosa Neon"
-      logoHomeLink = "/"
+      logoHomeLink = "https://viniciusoaguiar.github.io/prosaneonblog/"
     # or
     #
     # path = "/img/your-example-logo.svg"
